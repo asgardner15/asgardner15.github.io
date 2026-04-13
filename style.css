@@ -1,0 +1,30 @@
+body {
+    background-color: #F4EBD0;
+    margin: 12px;
+}
+h1 {
+    color: #2F6F6F;
+    font-family: 'Arial', sans-serif;
+}
+
+h2 {
+    color: #5A8F5A; 
+}
+
+h3 {
+    color: #7FB069; 
+}
+
+p {
+    color: #333333;
+    font-family: Cambria, serif;
+}
+
+ul {
+    color: #333333;     
+}
+
+a {
+    color: #E94F37; 
+} 
+
