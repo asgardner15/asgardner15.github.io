@@ -11,8 +11,8 @@ h2 {
     color: #5A8F5A; 
 }
 
-h3 {
-    color: #7FB069; 
+section:last-of-type h2 {
+    color: #7FB069;
 }
 
 p {
