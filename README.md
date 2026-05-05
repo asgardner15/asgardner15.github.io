@@ -11,9 +11,9 @@ https://asgardner15.github.io
 ## Project Documentation
 All project planning documents can be found in the docs folder:
 
-- scope.md
-- plan.md
-- retrospective.md
+- [Scope Statement](docs/scope.md)
+- [Project Plan](docs/plan.md)
+- [Retrospective](retrospective.md)
 
 ## Repository
 https://github.com/asgardner15/asgardner15.github.io
