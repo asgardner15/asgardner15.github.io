@@ -1,9 +1,9 @@
 body {
 
     background-color: #F4EBD0;
-    margin: 30px auto;
-    max-width: 900px;
-    font-size: 18px;
+    margin: 20px auto;
+    max-width: 850px;
+    font-size: 16px;
     padding: 20px;
 }
 
@@ -11,6 +11,7 @@ h1 {
     color: #1F4E5F;
     font-family: Arial, sans-serif;
     text-align: center;
+    font-size: 32px;
 }
 
 h2 {
@@ -61,7 +62,7 @@ figure {
 }
 
 figure img {
-    width: 350px;
+    width: 300px;
     max-width: 100%;
     border-radius: 8px;
 }
