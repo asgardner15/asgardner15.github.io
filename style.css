@@ -1,18 +1,21 @@
 body {
+
     background-color: #F4EBD0;
-    margin: 12px;
+    margin: 30px auto;
+    max-width: 900px;
+    font-size: 18px;
+    padding: 20px;
 }
+
 h1 {
-    color: #2F6F6F;
-    font-family: 'Arial', sans-serif;
+    color: #1F4E5F;
+    font-family: Arial, sans-serif;
+    text-align: center;
 }
 
 h2 {
-    color: #5A8F5A; 
-}
-
-section:last-of-type h2 {
-    color: #7FB069;
+    color: #3E7C59;
+    margin-top: 30px;
 }
 
 p {
@@ -20,13 +23,37 @@ p {
     font-family: Cambria, serif;
 }
 
-ul {
-    color: #333333;     
+p, li {
+    line-height: 1.6;
+}
+
+ul, ol {
+    color: #333333;
+    font-family: Cambria, serif;
 }
 
 a {
-    color: #E94F37; 
-} 
+    color: #E94F37;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+nav {
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+nav a {
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+section:last-of-type h2 {
+    color: #7FB069;
+}
 
 figure {
     text-align: center;
@@ -36,11 +63,18 @@ figure {
 figure img {
     width: 350px;
     max-width: 100%;
-    border-radius: 8px
+    border-radius: 8px;
 }
 
 figcaption {
     color: #333333;
     font-family: Cambria, serif;
     margin-top: 8px;
+}
+
+footer {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 14px;
+    color: #555555;
 }
