@@ -52,10 +52,6 @@ nav a {
     font-weight: bold;
 }
 
-section:last-of-type h2 {
-    color: #7FB069;
-}
-
 figure {
     text-align: center;
     margin: 20px 0;
