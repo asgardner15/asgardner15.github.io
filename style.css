@@ -28,3 +28,19 @@ a {
     color: #E94F37; 
 } 
 
+figure {
+    text-align: center;
+    margin: 20px 0;
+}
+
+figure img {
+    width: 350px;
+    max-width: 100%;
+    border-radius: 8px
+}
+
+figcaption {
+    color: #333333;
+    font-family: Cambria, serif;
+    margin-top: 8px;
+}
