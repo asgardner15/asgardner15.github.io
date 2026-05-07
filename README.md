@@ -3,6 +3,8 @@
 ## Project Overview
 This project is a simple, two-page website designed to introduce beginners to the game of American Mahjongg. The goal is to simplify the basics of the game, including setup, tile types, and how a round is played. 
 
+This website is designed to help beginners understand the basic setup, tile types, and gameplay concepts of American Mahjongg.
+
 This project also demonstrates the ability to plan, build, and publish a website using HTML, CSS, and GitHub.
 
 ## Live Website
